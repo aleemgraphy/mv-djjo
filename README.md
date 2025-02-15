@@ -1,8 +1,8 @@
-<h1 align="center">✨ Next.js Full Course - Build a Social App ✨</h1>
+<h1 align="center">✨Media Value - Djjo ✨</h1>
 
-![Demo App](/public/screenshot-for-readme.png)
 
-[Watch Full Tutorial on Youtube](https://youtu.be/vUYopHWOURg)
+
+[Watch Full Tutorial on Youtube]([https://youtu.be/vUYopHWOURg](https://www.youtube.com/@mediavalue7730))
 
 Highlights:
 
